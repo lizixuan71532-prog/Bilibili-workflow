@@ -1,0 +1,6 @@
+pandas
+openpyxl
+requests
+Pillow
+yt-dlp
+faster-whisper
